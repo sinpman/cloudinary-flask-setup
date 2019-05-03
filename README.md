@@ -1,5 +1,6 @@
-# flask-cloudinary: A basic setup to upload images from FLask to Cloudinary
-A sample webapp with cloudinary setup, that performs image upload into cloudinary.
+# flask-cloudinary
+
+A sample flask webapp with cloudinary setup, that performs image upload into cloudinary.
 
 ## Steps
 
